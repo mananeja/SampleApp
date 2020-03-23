@@ -16,6 +16,8 @@ public class Calculate {
 	
 	public static int cube(int n){  
 		int num = 20;
+		System.out.println("Cube of "+ num + " is ");
         return num*num*num; 
+        
 	}
 }
